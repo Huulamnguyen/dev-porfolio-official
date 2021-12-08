@@ -92,6 +92,8 @@ nav ul li {
   display: none;
 };
 
+/* Ending Styling Nav Bar */
+
 /* Styling hero section */
 .hero {
   display: flex;
@@ -131,4 +133,4 @@ nav ul li {
   line-height: var(--line-height);
   padding: 0.3rem 0;
 }
-
+/* Ending hero section */
