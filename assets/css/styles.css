@@ -321,3 +321,17 @@ footer {
   margin: 2rem 0 0;
 }
 /* Ending Footer Section */
+
+/* Scroll to top Button */
+.scroll-up {
+  position: fixed;
+  right: 0.5%;
+  bottom: 3%;
+  cursor: pointer;
+}
+
+.up-arrow {
+  width: 3rem;
+  height: 3rem;
+}
+/* Ending Scroll to top Button */
