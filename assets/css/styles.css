@@ -436,10 +436,20 @@ footer {
   }
 
   .project-container {
-    width: 17.875rem;
+    width: 20.875rem;
+  }
+
+  .project-card {
+    height: 40vh;
   }
 
   .contact-form-container {
     max-width: 17.75rem;
   }
+
+  .icon {
+    width: 6.875rem;
+    height: 6.25rem;
+  }
 }
+
