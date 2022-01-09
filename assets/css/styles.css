@@ -425,7 +425,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 414px) {
   .hero img {
     height: 16.5rem;
     width: 20rem;
@@ -448,8 +448,8 @@ footer {
   }
 
   .icon {
-    width: 6.875rem;
-    height: 6.25rem;
+    width: 4.875rem;
+    height: 5.25rem;
   }
 }
 
